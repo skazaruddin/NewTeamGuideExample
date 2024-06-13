@@ -1,0 +1,55 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/vcs.xml
+/misc.xml
+/modules.xml
+/checkstyle-idea.xml
+/aws.xml
+
+# IntelliJ IDEA files
+.idea/
+
+# Compiled files
+*.class
+*.war
+*.ear
+*.iml
+*.jar
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+*.hprof
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Maven specific files
+target/
+
+# Gradle specific files
+build/
+.gradle/
+
+# Exclude local configuration files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+
+# Exclude run configuration files
+.idea/runConfigurations
+
+# Exclude version control system directory
+.idea/vcs.xml
+
+# Exclude IntelliJ IDEA specific files
+.idea/codeStyles/
+.idea/copyright/
+.idea/inspectionProfiles/
+
+# Exclude IntelliJ IDEA plugins directory
+.idea/plugins/
+
